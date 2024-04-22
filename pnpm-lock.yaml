@@ -8,6 +8,12 @@ dependencies:
   nuxt:
     specifier: ^3.11.2
     version: 3.11.2(@unocss/reset@0.59.4)(floating-vue@5.2.2)(unocss@0.59.4)(vite@5.2.10)
+  vue:
+    specifier: ^3.4.21
+    version: 3.4.23
+  vue-router:
+    specifier: ^4.3.0
+    version: 4.3.2(vue@3.4.23)
 
 packages:
 
